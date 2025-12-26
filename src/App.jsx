@@ -187,24 +187,13 @@ function App() {
                 <h1 className="text-8xl">Still Running,</h1>
                 <h1 className="text-8xl">Not Hunting</h1>
                 <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Distinctio possimus, asperiores nam, omnis inventore nesciunt
-                  a architecto eveniet saepe, ducimus necessitatibus at
-                  voluptate.
+                 Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive.
                 </p>
                 <p className="mt-3 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-                  eius illum fugit eligendi nesciunt quia similique velit
-                  excepturi soluta tenetur illo repellat consectetur laborum
-                  eveniet eaque, dicta, hic quisquam? Ex cupiditate ipsa nostrum
-                  autem sapiente.
+                  Jason grew up around grifters and crooks. After a stint in the Army trying to shake off his troubled teens, he found himself in the Keys doing what he knows best, working for local drug runners. It might be time to try something new.
                 </p>
                 <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-                  eius illum fugit eligendi nesciunt quia similique velit
-                  excepturi soluta tenetur illo repellat consectetur laborum
-                  eveniet eaque, dicta, hic quisquam? Ex cupiditate ipsa nostrum
-                  autem sapiente.
+                  Life has been coming at her swinging ever since. Fighting for her family landed her in the Leonida Penitentiary. Sheer luck got her out. Lucia’s learned her lesson — only smart moves from here.
                 </p>
                 <button className="bg-yellow-500 px-10 py-10 text-black mt-10 text-4xl">
                   Download Now
